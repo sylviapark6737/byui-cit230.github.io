@@ -1,7 +1,31 @@
 table, th, td {
     border: 1px solid black;
+    border-collapse: collapse;
+
 }
 
 .thcolor {
-    color: #628ca6;
+    background-color:#7fb9c2 ;
+    font-size: 20px;
+}
+
+#color {
+    background-color: #628ca6;
+    color: white;
+    text-align: center;
+
+}
+
+#color2 {
+    background-color:  #e7f0ed;
+    text-align: center;
+}
+
+#font1 {
+    font-size: 12px;
+}
+
+#font2 {
+    background-color: #e7ffed;
+    text-align: center;
 }
